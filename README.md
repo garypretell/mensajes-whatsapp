@@ -10,7 +10,7 @@ npm install
 ## Usage
 
 ```bash
-1. edit your contact list in contactlist.txt
-2. edit message in content.txt
+1. edit your contact list in contactos.xlsx
+2. edit message
 3. type "npm run serve" in terminal
 ```
